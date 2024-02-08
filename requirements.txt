@@ -1,5 +1,0 @@
-setuptools
-requests
-six
-transmission-rpc
-qbittorrent-api

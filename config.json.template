@@ -1,4 +1,6 @@
 {
+    "ignore_categories": [],
+    "path_to_category": {},
     "skip_check": true,
     "qbittorrent": {
         "host": "127.0.0.1",
